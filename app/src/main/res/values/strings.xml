@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PasswordKeeper</string>
+    <string name="add_record">Add record</string>
+
+    <string name="account_hint">Account name</string>
+    <string name="login_hint">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="save_title">Save</string>
+
+    <string name="account_validation_error">Invalid account name</string>
+    <string name="login_validation_error">Invalid login</string>
+    <string name="password_validation_error">Invalid password</string>
+</resources>
